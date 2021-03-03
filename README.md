@@ -2,7 +2,7 @@
 
 # 基于FriendlyWRT源码
 
-- 账号 root  默认密码 passwall
+- 账号 root  默认密码 passwored
 
 - 默认地址 192.168.2.1
 - 下载地址 https://github.com/DHDAXCW/FriendlyWRT-R2S/releases
